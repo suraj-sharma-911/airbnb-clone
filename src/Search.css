@@ -10,11 +10,12 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    width: 559px;
+    width: 539px;
     padding: 25px;
     background-color: white;
     position: absolute;
     left: 0;
+    z-index: 100;
     top: 328px;
 }
 
@@ -24,7 +25,7 @@
     position: absolute;
     left: 0;
     height: 30px;
-    top: 420px;
+    top: 410px;
     border: none;
 }
 
@@ -35,7 +36,7 @@
 .search >button{
     position: absolute;
     left: 0;
-    top: 500px;
+    top: 475px;
     text-transform: inherit !important;
     background-color: #ff7779;
     color: white;

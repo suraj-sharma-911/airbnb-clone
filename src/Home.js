@@ -16,7 +16,7 @@ function Home() {
                     description = "An architect’s studio is now a modern home on Lake Gentofte’s shores following a gentle renovation to polish its historic bones."
                 />
                 <Card
-                    src = "https://cdn.thespaces.com/wp-content/uploads/2020/11/Kabe%CC%88k-cabin-by-U%CC%81ba%CC%81li_HERO.jpg"
+                    src = "https://cdn.thespaces.com/wp-content/uploads/2020/11/Kabe%CC%88k-cabin-by-U%CC%81ba%CC%81li_02.jpg"
                     title = "Kabëk cabin"
                     description = "Costa Rica’s Talamanca mountains were the inspiration for this prefab home. which has a flexible footprint that allows it to adapt to rough terrain."
                 />

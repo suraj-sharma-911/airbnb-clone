@@ -1,6 +1,6 @@
 .banner{
-    background: url("https://wallpaperfx.com/view_image/luxurious-hotel-room-2560x1440-wallpaper-11239.jpg")center center;
-    height: 75vh;
+    background: url("https://cdn.pixabay.com/photo/2020/01/04/20/26/holiday-4741593__340.jpg")center center;
+    height: 70vh;
     position: relative;
     background-size: cover;
 
@@ -30,6 +30,11 @@
 
 .banner_info >h5{
     margin-top:10px
+}
+
+.banner_info >h1{
+    font-weight: 900;
+    font-size: 3rem;
 }
 
 .banner_info >button{
