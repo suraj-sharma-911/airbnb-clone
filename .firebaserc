@@ -1,5 +1,14 @@
 {
   "projects": {
-    "default": "airbnb-clone-7cdac"
+    "default": "airbnb-clone-36d8b"
+  },
+  "targets": {
+    "airbnb-clone-36d8b": {
+      "hosting": {
+        "airbnb-clone-36d8b": [
+          "airbnb-clone"
+        ]
+      }
+    }
   }
 }

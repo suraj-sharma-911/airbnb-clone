@@ -9,7 +9,7 @@ function Home() {
     return (
         <div className='home'>
             <Banner/>
-            <div className="home_section">
+            <div className="home_section home_section_1">
                 <Card
                     src = "https://cdn.thespaces.com/wp-content/uploads/2020/11/MITCHELLSSTR%C3%86DE-30-2820-GENTOFTE-COTTAGE-FOR-SALE-VIA-ADAM-SCHNACK-6-1024x588.jpg"
                     title = "Modern lakefront cottage"

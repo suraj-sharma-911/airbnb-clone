@@ -6,7 +6,11 @@
 @media only screen and (max-width: 600px) {
     .home_section{
         display: inline-block;
-        margin-top: 20px;
+        padding-top: 0px;
+    }
+    .home_section_1{
+        display: inline-block;
+        margin-top: 70px;
         padding-top: 0px;
     }
   }
