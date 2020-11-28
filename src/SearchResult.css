@@ -7,6 +7,12 @@
     cursor: pointer;
 }
 
+@media only screen and (max-width: 600px) {
+    .searchResult{
+        display: inline-block;
+    }
+  }
+
 .searchResult:hover{
     opacity: 0.9;
 }
@@ -70,3 +76,12 @@
     right: 30px;
 }
 
+
+@media only screen and (max-width: 600px) {
+    .searchResult_price{
+        display: block;
+        position: relative;
+        align-items: center;
+        bottom: 0px;
+    }
+  }

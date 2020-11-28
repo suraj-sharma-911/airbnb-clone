@@ -12,10 +12,13 @@ function SearchResult({
     price,
     total,
 }) {
+
+    
     return (
         <div className="searchResult">
             <img src={image} alt="" />
-            <FavoriteBorderIcon className="searchResult_heart" />
+            <FavoriteBorderIcon  className="searchResult_heart">
+            </FavoriteBorderIcon>
 
             <div className="searchResult_info">
                 <div className="searchResult_infoTop">
@@ -33,7 +36,7 @@ function SearchResult({
                     </div>
                     <div className="searchResult_price">
                         <h2>{price}</h2>
-                        <p>{total}</p>
+                        <span>{total}</span>
                     </div>
                 </div>
             </div>
